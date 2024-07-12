@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0451-sort-characters-by-frequency) |
 ## String
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
