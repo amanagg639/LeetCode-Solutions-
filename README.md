@@ -14,16 +14,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
@@ -38,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0451-sort-characters-by-frequency) |
+## Array
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
