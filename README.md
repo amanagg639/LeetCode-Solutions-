@@ -14,14 +14,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
