@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -55,5 +56,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
