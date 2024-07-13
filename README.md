@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0075-sort-colors) |
@@ -66,9 +67,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0073-set-matrix-zeroes) |
 ## Greedy
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0134-gas-station) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
