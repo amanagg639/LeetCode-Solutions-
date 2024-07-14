@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0062-unique-paths) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0169-majority-element) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
