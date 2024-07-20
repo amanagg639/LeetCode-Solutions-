@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0229-majority-element-ii) |
+| [0485-max-consecutive-ones](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0485-max-consecutive-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
