@@ -1,25 +1,19 @@
 class Solution {
-   
-    public static void solve(int ind, int arr[], int n, 
-    List<Integer> out, List<List<Integer>> subset){
-        if (ind>=n) {
-            Collections.sort(out);
-            if (!subset.contains(out)) {
-               subset.add(out);   
-            }     
-            return;
-        }
-        solve(ind+1, arr, n, new ArrayList<>(out), subset);
-        int temp = arr[ind];
-        out.add(temp);
-        solve(ind+1, arr, n, new ArrayList<>(out), subset);
-        out.remove(out.size()-1);
-    }
     public List<List<Integer>> subsetsWithDup(int[] nums) {
-        int n = nums.length;
-        List<List<Integer>> subset = new ArrayList<>();
-        List<Integer> out = new ArrayList<>();
-        solve(0, nums, n, out, subset);
-        return subset;
+        Arrays.sort(nums);
+        List<List<Integer>> list = new ArrayList<>();
+        backtrack(list, nums, new ArrayList<>(), 0);
+        return list;
+    }
+    private void backtrack(List<List<Integer>> list, int[] nums, List<Integer> path, int index){
+        list.add(new ArrayList<>(path));
+        for(int i=index; i<nums.length; i++){
+            if(i>index && nums[i] == nums[i-1]){
+                continue;
+            }
+            path.add(nums[i]);
+            backtrack(list, nums, path, i+1);
+            path.remove(path.size()-1);
+        }
     }
 }
