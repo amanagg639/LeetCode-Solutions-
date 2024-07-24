@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0128-longest-consecutive-sequence) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0046-permutations) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0074-search-a-2d-matrix) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0090-subsets-ii) |
