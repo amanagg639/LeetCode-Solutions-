@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0451-sort-characters-by-frequency) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0232-implement-queue-using-stacks) |
