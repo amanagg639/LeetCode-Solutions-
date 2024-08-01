@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0485-max-consecutive-ones) |
+| [1036-rotting-oranges](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1036-rotting-oranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0074-search-a-2d-matrix) |
+| [1036-rotting-oranges](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1036-rotting-oranges) |
 ## Greedy
 |  |
 | ------- |
@@ -221,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0460-lfu-cache) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
