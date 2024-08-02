@@ -179,11 +179,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0937-online-stock-span](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0937-online-stock-span) |
 ## Backtracking
 |  |
 | ------- |
@@ -209,10 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0295-find-median-from-data-stream) |
 | [0460-lfu-cache](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0460-lfu-cache) |
+| [0937-online-stock-span](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0295-find-median-from-data-stream) |
+| [0937-online-stock-span](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
