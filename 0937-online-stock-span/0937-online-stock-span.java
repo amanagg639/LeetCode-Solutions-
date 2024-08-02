@@ -1,19 +1,32 @@
-class StockSpanner {
-    ArrayList<Integer> al;
-    public StockSpanner() {
-        al = new ArrayList<>();
+class Node{
+    int stock;
+    int span;
+    Node(int stock, int span){
+        this.stock = stock;
+        this.span = span;
     }
-    int i=0;
+}
+class StockSpanner {
+    ArrayList<Node> al;
+    public StockSpanner() {
+      al = new ArrayList<>();  
+    }
+    int largest = Integer.MIN_VALUE;
     public int next(int price) {
-        al.add(price);
-        int cnt = 1;
-        for(int j=i-1; j>=0; j--){
-            if(al.get(j)<=price)cnt++;
-
-            else break;
+        if(largest<=price){
+            largest = price;
+            int days = 1;
+            days += al.size();
+            al.add(new Node(price, days));
+            return days;
         }
-        i++;
-        return cnt;
+        int days = 1;
+        int n = al.size();
+        while(n-days>=0 && al.get(n-days).stock<=price){
+            days += al.get(n-days).span;
+        }
+        al.add(new Node(price, days));
+        return days;
     }
 }
 
