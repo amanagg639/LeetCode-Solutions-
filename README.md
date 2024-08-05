@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0242-valid-anagram) |
@@ -231,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1036-rotting-oranges) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
