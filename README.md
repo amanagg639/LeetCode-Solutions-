@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0200-number-of-islands) |
+| [0801-is-graph-bipartite](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Stack
 |  |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0200-number-of-islands) |
 | [0662-maximum-width-of-binary-tree](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0662-maximum-width-of-binary-tree) |
+| [0801-is-graph-bipartite](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1036-rotting-oranges) |
 ## Trie
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0662-maximum-width-of-binary-tree) |
+| [0801-is-graph-bipartite](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -336,5 +339,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
