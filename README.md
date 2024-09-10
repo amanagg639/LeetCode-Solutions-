@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0242-valid-anagram) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0152-maximum-product-subarray) |
