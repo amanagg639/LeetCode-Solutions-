@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0229-majority-element-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0485-max-consecutive-ones) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0300-longest-increasing-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0074-search-a-2d-matrix) |
+| [0300-longest-increasing-subsequence](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0300-longest-increasing-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
