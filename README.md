@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0146-lru-cache) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0242-valid-anagram) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0200-number-of-islands) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0300-longest-increasing-subsequence) |
 ## Two Pointers
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0139-word-break) |
 ## String Matching
 |  |
 | ------- |
@@ -348,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
