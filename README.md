@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0460-lfu-cache) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2677-cousins-in-binary-tree-ii) |
 ## String
 |  |
 | ------- |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1036-rotting-oranges) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Trie
 |  |
 | ------- |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -334,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Database
 |  |
 | ------- |
