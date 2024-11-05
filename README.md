@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0451-sort-characters-by-frequency) |
 | [0686-repeated-string-match](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0686-repeated-string-match) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1508-longest-happy-prefix](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1508-longest-happy-prefix) |
 | [3451-string-compression-iii](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/3451-string-compression-iii) |
 ## Sorting
