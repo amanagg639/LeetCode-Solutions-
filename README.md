@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0455-assign-cookies) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [3291-find-if-array-can-be-sorted](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/3291-find-if-array-can-be-sorted) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0485-max-consecutive-ones) |
 | [1036-rotting-oranges](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [3291-find-if-array-can-be-sorted](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/3291-find-if-array-can-be-sorted) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0090-subsets-ii) |
+| [3291-find-if-array-can-be-sorted](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/3291-find-if-array-can-be-sorted) |
 ## Quickselect
 |  |
 | ------- |
