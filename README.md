@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0460-lfu-cache) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2677-cousins-in-binary-tree-ii) |
 ## String
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0485-max-consecutive-ones) |
 | [1036-rotting-oranges](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [3291-find-if-array-can-be-sorted](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/3291-find-if-array-can-be-sorted) |
 ## Dynamic Programming
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1036-rotting-oranges) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 ## Greedy
 |  |
 | ------- |
