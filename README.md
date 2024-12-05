@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0037-sudoku-solver) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0031-next-permutation) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0455-assign-cookies) |
 ## Math
