@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0206-reverse-linked-list) |
+| [2050-count-good-numbers](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2050-count-good-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0062-unique-paths) |
+| [2050-count-good-numbers](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2050-count-good-numbers) |
 ## Binary Search
 |  |
 | ------- |
