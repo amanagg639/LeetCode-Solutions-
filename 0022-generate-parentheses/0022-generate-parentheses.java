@@ -1,17 +1,23 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
         List<String> ans = new ArrayList<>();
-        find(n, ans, "", n, n);
+        genrate(0, 0, n, new StringBuilder(), ans);
         return ans;
     }
-    public void find(int n, List<String> ans, String temp, int r, int l){
-         if(l==0 && r==0){
-            ans.add(temp);
+    public void genrate(int open, int close, int n, StringBuilder str, List<String>ans){
+        if(str.length() == n*2){
+            ans.add(str.toString());
             return;
-         }
-         if(r>0)
-         find(n, ans, temp+'(', r-1, l);
-         if(l>r)
-         find(n, ans, temp+')', r, l-1);
+        }
+        if(open<n){
+            str.append('(');
+            genrate(open+1, close, n, str, ans);
+            str.deleteCharAt(str.length()-1);
+        }
+        if(close<open){
+            str.append(')');
+            genrate(open, close+1, n, str, ans);
+            str.deleteCharAt(str.length()-1);
+        }
     }
 }
