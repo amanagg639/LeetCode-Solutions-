@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2050-count-good-numbers) |
 ## Hash Table
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0300-longest-increasing-subsequence) |
+| [1013-fibonacci-number](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0062-unique-paths) |
+| [1013-fibonacci-number](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2050-count-good-numbers) |
 ## Binary Search
 |  |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0139-word-break) |
+| [1013-fibonacci-number](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
