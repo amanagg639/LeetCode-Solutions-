@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2050-count-good-numbers) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0486-predict-the-winner) |
 | [1036-rotting-oranges](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0300-longest-increasing-subsequence) |
+| [0486-predict-the-winner](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0062-unique-paths) |
+| [0486-predict-the-winner](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2050-count-good-numbers) |
@@ -400,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
