@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0686-repeated-string-match) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1508-longest-happy-prefix](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1508-longest-happy-prefix) |
+| [1894-merge-strings-alternately](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1894-merge-strings-alternately) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/3451-string-compression-iii) |
 ## Sorting
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0908-middle-of-the-linked-list) |
+| [1894-merge-strings-alternately](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1894-merge-strings-alternately) |
 ## Matrix
 |  |
 | ------- |
