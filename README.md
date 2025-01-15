@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0347-top-k-frequent-elements) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0165-compare-version-numbers) |
+| [0283-move-zeroes](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0557-reverse-words-in-a-string-iii) |
