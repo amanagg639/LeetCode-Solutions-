@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0486-predict-the-winner) |
+| [0861-flipping-an-image](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0861-flipping-an-image) |
 | [1036-rotting-oranges](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0861-flipping-an-image](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0908-middle-of-the-linked-list) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1894-merge-strings-alternately) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0200-number-of-islands) |
+| [0861-flipping-an-image](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0861-flipping-an-image) |
 | [1036-rotting-oranges](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 ## Greedy
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0090-subsets-ii) |
+| [0861-flipping-an-image](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0861-flipping-an-image) |
 | [3291-find-if-array-can-be-sorted](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/3291-find-if-array-can-be-sorted) |
 ## Quickselect
 |  |
@@ -417,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0861-flipping-an-image) |
 | [1505-create-target-array-in-the-given-order](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1505-create-target-array-in-the-given-order) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Game Theory
