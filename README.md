@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1505-create-target-array-in-the-given-order](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1505-create-target-array-in-the-given-order](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1505-create-target-array-in-the-given-order) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Game Theory
 |  |
