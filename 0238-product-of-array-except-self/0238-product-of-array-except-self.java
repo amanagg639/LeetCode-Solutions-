@@ -3,7 +3,7 @@ class Solution {
         int n = nums.length;
         int before = 1;
         int after = 1;
-        int[] res = new int[n];
+        int[] res = new int[n];                                                                                                                                                                                                                                                                                                                                                                             
         for(int i=0; i<n; i++){
            res[i] = before;
            before *= nums[i];
