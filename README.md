@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2551-apply-operations-to-an-array](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/3291-find-if-array-can-be-sorted) |
 ## Dynamic Programming
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2551-apply-operations-to-an-array](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Matrix
 |  |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2551-apply-operations-to-an-array](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2551-apply-operations-to-an-array) |
 ## Game Theory
 |  |
 | ------- |
