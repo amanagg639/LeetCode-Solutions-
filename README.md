@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0165-compare-version-numbers) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0151-reverse-words-in-a-string) |
