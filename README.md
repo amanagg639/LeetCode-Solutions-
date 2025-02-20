@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2128-reverse-prefix-of-word) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/3451-string-compression-iii) |
+| [3636-check-balanced-string](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/3636-check-balanced-string) |
 ## Sorting
 |  |
 | ------- |
