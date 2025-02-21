@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-longest-happy-prefix](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1508-longest-happy-prefix) |
 | [1894-merge-strings-alternately](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2128-reverse-prefix-of-word) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/3451-string-compression-iii) |
 | [3636-check-balanced-string](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/3636-check-balanced-string) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2551-apply-operations-to-an-array) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2714-left-and-right-sum-differences) |
 | [3291-find-if-array-can-be-sorted](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/3291-find-if-array-can-be-sorted) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0238-product-of-array-except-self) |
 | [1833-find-the-highest-altitude](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1833-find-the-highest-altitude) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2714-left-and-right-sum-differences) |
 ## Simulation
 |  |
