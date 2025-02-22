@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0062-unique-paths) |
+| [0441-arranging-coins](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0300-longest-increasing-subsequence) |
+| [0441-arranging-coins](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0441-arranging-coins) |
 ## Divide and Conquer
 |  |
 | ------- |
