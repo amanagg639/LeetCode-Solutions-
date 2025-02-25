@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0242-valid-anagram) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0455-assign-cookies) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0062-unique-paths) |
+| [0202-happy-number](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0202-happy-number) |
 | [0441-arranging-coins](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1013-fibonacci-number) |
