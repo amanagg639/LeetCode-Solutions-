@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1319-unique-number-of-occurrences) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1508-longest-happy-prefix](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1508-longest-happy-prefix) |
 | [1894-merge-strings-alternately](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1894-merge-strings-alternately) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2128-reverse-prefix-of-word](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2128-reverse-prefix-of-word) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0451-sort-characters-by-frequency) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Array
 |  |
 | ------- |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Union Find
 |  |
 | ------- |
