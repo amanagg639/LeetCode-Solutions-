@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0347-top-k-frequent-elements) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0460-lfu-cache) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0686-repeated-string-match](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0686-repeated-string-match) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Union Find
 |  |
