@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0460-lfu-cache) |
+| [0567-permutation-in-string](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0567-permutation-in-string) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0686-repeated-string-match) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1508-longest-happy-prefix](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1508-longest-happy-prefix) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0567-permutation-in-string) |
 | [0861-flipping-an-image](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0941-sort-array-by-parity) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0567-permutation-in-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Union Find
 |  |
