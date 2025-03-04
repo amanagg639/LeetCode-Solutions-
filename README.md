@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1013-fibonacci-number) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2050-count-good-numbers) |
 | [2630-alternating-digit-sum](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2630-alternating-digit-sum) |
