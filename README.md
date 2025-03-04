@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1319-unique-number-of-occurrences) |
 | [1505-create-target-array-in-the-given-order](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1677-matrix-diagonal-sum](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1677-matrix-diagonal-sum) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1833-find-the-highest-altitude) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2128-reverse-prefix-of-word](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2128-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0937-online-stock-span](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Backtracking
 |  |
 | ------- |
