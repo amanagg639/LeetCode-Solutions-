@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1833-find-the-highest-altitude) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2228-watering-plants-ii](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2551-apply-operations-to-an-array) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2128-reverse-prefix-of-word) |
+| [2228-watering-plants-ii](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2551-apply-operations-to-an-array) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0861-flipping-an-image) |
 | [1505-create-target-array-in-the-given-order](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1505-create-target-array-in-the-given-order) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2228-watering-plants-ii](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2551-apply-operations-to-an-array) |
