@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2050-count-good-numbers) |
 | [2630-alternating-digit-sum](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2630-alternating-digit-sum) |
+| [2649-count-total-number-of-colored-cells](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2649-count-total-number-of-colored-cells) |
 ## Binary Search
 |  |
 | ------- |
