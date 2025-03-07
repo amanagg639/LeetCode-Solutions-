@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2050-count-good-numbers) |
+| [2610-closest-prime-numbers-in-range](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2610-closest-prime-numbers-in-range) |
 | [2630-alternating-digit-sum](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2630-alternating-digit-sum) |
 | [2649-count-total-number-of-colored-cells](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/3227-find-missing-and-repeated-values) |
@@ -497,4 +498,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/0486-predict-the-winner) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
