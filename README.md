@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2610-closest-prime-numbers-in-range) |
 | [2630-alternating-digit-sum](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2630-alternating-digit-sum) |
 | [2649-count-total-number-of-colored-cells](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2649-count-total-number-of-colored-cells) |
+| [2998-count-symmetric-integers](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -514,4 +515,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2610-closest-prime-numbers-in-range) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/amanagg639/LeetCode-Solutions-/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
